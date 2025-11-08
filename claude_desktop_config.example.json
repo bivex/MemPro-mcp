@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mempro": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "C:\\Program Files\\PureDevSoftware\\MemPro\\MemProReader\\MemProMCP\\mempro-mcp.exe"
+      ],
+      "env": {
+        "MEMPRO_JSON_PATH": "C:\\Program Files\\PureDevSoftware\\MemPro\\MemProReader\\test_memory_analysis.json"
+      }
+    }
+  }
+}
